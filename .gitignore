@@ -1,3 +1,5 @@
 modules/native/build
 paquetes/npm/node_modules
 /node_modules
+paquetes/utiles/node_modules
+paquetes/utiles/resize.png
